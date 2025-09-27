@@ -1,0 +1,4 @@
+XGBoost: 0.784919028340081
+MLP: 0.9018055555555555
+RandomForest: 1.0
+LogisticRegression: 1.0
